@@ -1,3 +1,5 @@
+ALL DATA TYPES WITH EXAMPLE IN PYTHON
+
 """
 1. int
 2. float
